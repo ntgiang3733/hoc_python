@@ -1,0 +1,1 @@
+print("Kết quả phép tính 10 + 13 là: ", 10+13)
